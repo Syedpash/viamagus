@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/viamagus/static/css/main.057def6d.chunk.css",
-    "main.js": "/viamagus/static/js/main.3198780f.chunk.js",
-    "main.js.map": "/viamagus/static/js/main.3198780f.chunk.js.map",
+    "main.css": "/viamagus/static/css/main.95efe8ac.chunk.css",
+    "main.js": "/viamagus/static/js/main.d254fcd1.chunk.js",
+    "main.js.map": "/viamagus/static/js/main.d254fcd1.chunk.js.map",
     "runtime-main.js": "/viamagus/static/js/runtime-main.301bcca3.js",
     "runtime-main.js.map": "/viamagus/static/js/runtime-main.301bcca3.js.map",
     "static/css/2.1dd069c0.chunk.css": "/viamagus/static/css/2.1dd069c0.chunk.css",
@@ -12,7 +12,7 @@
     "static/js/3.50f887fc.chunk.js.map": "/viamagus/static/js/3.50f887fc.chunk.js.map",
     "index.html": "/viamagus/index.html",
     "static/css/2.1dd069c0.chunk.css.map": "/viamagus/static/css/2.1dd069c0.chunk.css.map",
-    "static/css/main.057def6d.chunk.css.map": "/viamagus/static/css/main.057def6d.chunk.css.map",
+    "static/css/main.95efe8ac.chunk.css.map": "/viamagus/static/css/main.95efe8ac.chunk.css.map",
     "static/js/2.cdefaca3.chunk.js.LICENSE.txt": "/viamagus/static/js/2.cdefaca3.chunk.js.LICENSE.txt",
     "static/media/Group2.acb772d1.svg": "/viamagus/static/media/Group2.acb772d1.svg",
     "static/media/Rectangle1.81e87c5a.png": "/viamagus/static/media/Rectangle1.81e87c5a.png",
@@ -22,7 +22,7 @@
     "static/js/runtime-main.301bcca3.js",
     "static/css/2.1dd069c0.chunk.css",
     "static/js/2.cdefaca3.chunk.js",
-    "static/css/main.057def6d.chunk.css",
-    "static/js/main.3198780f.chunk.js"
+    "static/css/main.95efe8ac.chunk.css",
+    "static/js/main.d254fcd1.chunk.js"
   ]
 }
